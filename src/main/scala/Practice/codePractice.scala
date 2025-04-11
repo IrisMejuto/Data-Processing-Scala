@@ -1,5 +1,0 @@
-package Practice
-
-object codePractice {
-
-}
